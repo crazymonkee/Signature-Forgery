@@ -6,3 +6,4 @@ this is my first machine learning related project this AI i made can predict if 
 
 the dataset:
 it is from kaggle but it seems i lost the link or the dataset has been removed, but thankfully i already downloaded it
+onedrive linkof the dataset: https://1drv.ms/f/s!Av_HE4aM4FK0gdsT5Xc_0hfrd9xJ-g?e=3UbeZB
